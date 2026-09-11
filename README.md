@@ -18,6 +18,11 @@ Personal e-mail addresses and phone numbers were replaced with the board's role 
 
 Avada is a paid theme; its files are included only so the archive renders and should not be reused elsewhere.
 
+## Hosting
+
+Live at <https://2021.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
+Every push to `main` is deployed by Workers Builds within a minute or two; the `dev` branch gets a preview at <https://dev-best-zagreb-web-2021.best-zagreb-account.workers.dev/>. Every page carries an archive notice and a noindex header, added at the edge by `banner.js`; the archived files themselves are untouched.
+
 ## Wayback Machine
 
 This edition ran at <https://best.hr/>. The Internet Archive's calendar for the address is <https://web.archive.org/web/*/https://best.hr/*>; it covers every era of the site, so pick dates up to the end of 2021 for this one.
