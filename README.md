@@ -17,3 +17,9 @@ The folder's uploads had been emptied long before the rescue. Images were recove
 Personal e-mail addresses and phone numbers were replaced with the board's role address, as on the other archives. Links to the sister sites (`/course/`, `/dankarijera/`) are kept root-relative for the cutover. Two partner pages that never existed in the database were unlinked. Feed, oEmbed and RSD links point at best.hr as they always did.
 
 Avada is a paid theme; its files are included only so the archive renders and should not be reused elsewhere.
+
+## Wayback Machine
+
+This edition ran at <https://best.hr/>. The Internet Archive's calendar for the address is <https://web.archive.org/web/*/https://best.hr/*>; it covers every era of the site, so pick dates up to the end of 2021 for this one.
+Checked on 2026-09-11: the first WordPress URL of best.hr in the index dates from 2017-11-30 and the last home page capture of 2021 is from 2021-12-22; 136 distinct HTML pages outside the sub-sites were first captured in that window. The archive's best.hr history as a whole starts on 2003-07-11.
+This repository is the complete copy of the edition as it was rebuilt from the retired install; the archive is a partial, independent second copy.
