@@ -23,6 +23,10 @@ Avada is a paid theme; its files are included only so the archive renders and sh
 Live at <https://2021.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
 Every push to `main` is deployed by Workers Builds within a minute or two; the `dev` branch gets a preview at <https://dev-best-zagreb-web-2021.best-zagreb-account.workers.dev/>. Every page carries an archive notice and a noindex header, added at the edge by `banner.js`; the archived files themselves are untouched.
 
+## Editions
+
+The edition before this one, best.hr from August 2017 to spring 2018, is at <https://2017.best.hr/> ([BEST-Zagreb-Web-2017](https://github.com/BEST-Zagreb/BEST-Zagreb-Web-2017)); the current site is at <https://best.hr/> ([BEST-Zagreb-Web](https://github.com/BEST-Zagreb/BEST-Zagreb-Web)).
+
 ## Wayback Machine
 
 This edition ran at <https://best.hr/>. The Internet Archive's calendar for the address is <https://web.archive.org/web/*/https://best.hr/*>; it covers every era of the site, so pick dates up to the end of 2021 for this one.
